@@ -103,8 +103,9 @@ main {
   text-align: center;
   color: black;
   font-size: 1em;
-  position:relative;
+
     border-width:2px;
+    position:relative;
     float: left;
 
 }
