@@ -3,22 +3,27 @@
   font-family: sans-serif;
   box-sizing: border-box;
 }
-header{
-  text-align: center;
-  background-color:rgb(255, 40, 100);
-}
-header h1{
-  font-size: 3em;
-  font-family: cursive;
-  text-transform: capitalize;
-}
-h1 + p.subtitulo{
-  font-size: 2em;
-  word-spacing: 3em;
-  letter-spacing: 1em;
+  header{
+    text-align: center;
+    background-color:rgb(255, 40, 100);
+  }
+  #logo{
+    margin: 10px;
+    margin-left: 150px;
+    float: left;
+  }
+  header h1{
+      font-size: 3em;
+    font-family: cursive;
+    text-transform: capitalize;
+  }
+  h1 + p.subtitulo{
+    font-size: 2em;
+    word-spacing: 3em;
+    letter-spacing: 1em;
 
-}
-a:link{
+  }
+  a:link{
   color:blue;
 
 }
