@@ -103,6 +103,10 @@ main {
   text-align: center;
   color: black;
   font-size: 1em;
+  position:relative;
+    border-width:2px;
+    float: left;
+
 }
 .b a{
   color: midnightblue;
@@ -112,6 +116,9 @@ main {
   text-align: center;
   color: black;
   font-size: 1em;
+  position:relative;
+    border-width:2px;
+    float: left;
 }
 .c a{
   color: midnightblue;
