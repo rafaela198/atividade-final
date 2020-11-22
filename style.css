@@ -79,6 +79,7 @@ nav{
   margin: 25px;
   top: 160px;
   float: right;
+  width: 95%;
 }
 main {
     position: relative;
@@ -87,9 +88,10 @@ main {
     float: left;
     margin: 30px;
     padding-bottom: 20px;
+    width: 95%;
 }
 main {
-    width: 80%;
+
     background-color: #FFE4E1;
 }
 
