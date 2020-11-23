@@ -71,19 +71,19 @@ nav ul li{
 
 header{
 
-  
+
   z-index: 5;
 }
 nav{
   position: fixed;
-  margin: 25px;
-  top: 80px;
+  margin: 40px;
+  top: 90px;
   float: right;
   width: 95%;
 }
 main {
     position: relative;
-    top: 160px;
+    top: 0px;
     float: none;
     float: left;
     margin: 30px;
@@ -140,4 +140,14 @@ footer{
   width: 200px;
   background-color: #F5DEB3;
   border: 4px solid midnightblue;
+}
+#carouselExampleIndicators{
+  margin-top: 190px;
+  width: 90%;
+  padding-left: 110px;
+  color: black;
+}
+#palavra{
+  font-size: 2em;
+  color: red;
 }
